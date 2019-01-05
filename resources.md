@@ -65,6 +65,7 @@
 
 [safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
 [html-css]: https://learn.shayhowe.com/html-css/
+[lynda-portal]: https://lyndaportal.ict.hva.nl
 [ydkjs-1]: https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going
 [ydkjs-2]: https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures
 [ydkjs-3]: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes
