@@ -1,18 +1,18 @@
 # ![Resources][banner-resources]
 
-## Resources used in front-end
-*   🆓 Haverbeke, Marijn.  [_Eloquent JavaScript (third edition)_](https://eloquentjavascript.net/3rd_edition/).  No Starch Press,       2018 (**required**※)
-
-> ※ free to read [online](https://eloquentjavascript.net/3rd_edition/)
-
 ## Resources used in previous courses
 *   Duckett, Jon.
     _JavaScript & jQuery_.
     John Wiley & Sons, 2015
     (**inleiding programmeren**)
 
-## Refresh your JavaScript knowledge
-Javascript Algorithms And Data Structures
+## Resources used in front-end
+*   🆓 Haverbeke, Marijn.  [_Eloquent JavaScript (third edition)_](https://eloquentjavascript.net/3rd_edition/).  No Starch Press,       2018 (**required**※)
+
+> ※ free to read [online](https://eloquentjavascript.net/3rd_edition/)
+
+### Additional resources
+
 *   🆓 [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
     (**course**) — Intro to JavaScript: Learn to code interactively
 *   🆓 [NodeSchool](https://github.com/workshopper/javascripting)
@@ -58,6 +58,10 @@ Javascript Algorithms And Data Structures
     (**workshopper**) — Learn the basics of JavaScript. No previous programming experience required.
 *   🆓 [Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
     (**workshopper**) — Learn fundamental functional programming features of JavaScript in vanilla ES5.
+*   🆓 [Scope Chains & Closures](https://github.com/workshopper/scope-chains-closures)
+    (**workshopper**) — Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.  
+*   🆓 [JavaScript best practices](https://github.com/excellalabs/js-best-practices-workshopper)
+    (**workshopper**) — Learn the best practices of writing clean JavaScript code.
 
 [safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
 [html-css]: https://learn.shayhowe.com/html-css/
