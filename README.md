@@ -105,7 +105,13 @@ The below table breaks down the general time needed per week.
 | 3    |  9:20h | [assignments][l3a]                                     |
 | 4    |  9:20h | [lecture 2][l2], [assignments][l4a]                    |
 | 5    |  9:20h | [assignments][l5a]                                     |
-| 6    |  9:20h | [assignments][l6a]                                     |
+| 6    |  9:20h | [assignments][l6a]                            
+
+<br>
+<details>
+    <summary>Overview</summary>
+    <img src="assets/overview.jpg" alt="Block tech schedule overview">
+</details>
 
 ## Grade
 
