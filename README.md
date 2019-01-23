@@ -15,7 +15,7 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2019 between
 4 February and 20 June.
 
 *   **Course**: Backend & Front-end 2
-*   **Coordinator**: [Danny de Vries][dangit] & [Joost Faber][joostgit]
+*   **Coordinator(s)**: [Danny de Vries][dangit] & [Joost Faber][joostgit]
 *   **Lecturers**:
     [Danny de Vries][dangit] ([**@dandevri**][danweb]) and
     [Joost Faber][joostgit] ([**@joost_faber**][joostweb])
@@ -41,13 +41,6 @@ We kick Blok Tech [**@CMDA**][cmda] off with a JavaScript bootcamp before we sta
 
 If you have questions:
 
-*   Read the manual for the technology in question
-    ([Git](https://git-scm.com/docs),
-    [GitHub](https://guides.github.com),
-    [Node](https://nodejs.org/api/),
-    [npm](https://docs.npmjs.com),
-    [express](http://expressjs.com/en/4x/api.html),
-    [MongoDB](https://docs.mongodb.com))
 *   [Browse examples][examples]
 *   [Look at the resources](/resources.md)
 *   [Search StackOverflow][stackoverflow]
@@ -58,28 +51,25 @@ If you have questions:
 ## Goals
 
 *   Refresh your JavaScript knowledge
-*   Learn about JavaScript as a Language
-*   Learn about JavaScript in the Browser
-*   Learn about JavaScript in Node
 
 #### Sub goals
 
 In practice you’ll learn to:
 
 * <a name="subgoal-1"></a>
-    Values, Types, and Operators ([**lesson 0**][l0a])
+    Values, Types, and Operators ([**lesson 1**][l1a])
 *  <a name="subgoal-2"></a>
-    Program Structure ([**lesson 0**][l0a])
+    Program Structure ([**lesson 1**][l1a])
 * <a name="subgoal-3"></a>
-    Functions ([**lesson 1**][l1a])
+    Functions ([**lesson 2**][l2a])
 * <a name="subgoal-4"></a>
-    Data Structures: Objects and Arrays ([**lesson 1**][l1a])
+    Data Structures: Objects and Arrays ([**lesson 2**][l2a])
 * <a name="subgoal-5"></a>
-    Higher-order Functions ([**lesson 2**][l2a])
+    Higher-order Functions ([**lesson 3**][l3a])
 * <a name="subgoal-6"></a>
-    The Secret Life of Objects ([**lesson 2**][l2a])
+    The Secret Life of Objects ([**lesson 3**][l3a])
 * <a name="subgoal-7"></a>
-    Bugs and Errors ([**lesson 3**][l3a])
+    Bugs and Errors ([**lesson 5**][l5a])
 * <a name="subgoal-8"></a>
     Modules ([**lesson 3**][l3a])
 * <a name="subgoal-9"></a>
@@ -109,7 +99,7 @@ The below table breaks down the general time needed per week.
 
 <br>
 <details>
-    <summary>Overview</summary>
+    <summary>Schedule</summary>
     <img src="assets/overview.jpg" alt="Block tech schedule overview">
 </details>
 

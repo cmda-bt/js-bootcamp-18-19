@@ -55,7 +55,27 @@ git config --global user.name "Mona Lisa"
 git config --global user.email "mona@lisa.com"
 ```
 
-Use the same email for Git as you used to sign up for GitHub.
+Use the same email for Git as you used to sign up for GitHub. Open source is about people after all, don't forget to update your **bio information** and choose a nice **profile picture**!
+
+## Setting up your repository
+
+We would like you to have one 'monorepo' for *Block Tech*. This makes it easier for us to find your files and grade your assignments and assesments.
+
+You are going to hand in your exercises from this bootcamp trough GitHub. 
+
+* Create a repository called `block-tech`
+* Add a copy of the `template-repo` folder to your repository.
+  * There are files for all the exercises, you will put your answers there.
+  * There is also a `notes.md` where you can type notes after reading chapters of the book.
+
+## Hand In
+
+
+1. **Push your changes:**  
+Hand in a link to your repository on GitHub under your username.
+
+1. **Create an issue:**  
+Mark this as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. 
 
 ## Communication
 
@@ -95,3 +115,4 @@ If you have questions (in this order):
 [synopsis]: #synopsis
 [slack]: https://cmda-tech.slack.com/
 [banner-guide]: https://cmda-bt.github.io/js-bootcamp-18-19/assets/banner-guide.svg
+[issues]: https://github.com/cmda-bt/js-bootcamp-18-19/issues/new/choose
