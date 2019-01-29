@@ -59,12 +59,10 @@ Use the same email for Git as you used to sign up for GitHub. Open source is abo
 
 ## Setting up your repository
 
-We would like you to have one 'monorepo' for *Block Tech*. This makes it easier for us to find your files and grade your assignments and assesments.
+We would like you to have one 'repo' for the *JavaScript bootcamp*. This makes it easier for us to find your files and grade your assignments. You are going to hand in your exercises from this bootcamp trough GitHub. 
 
-You are going to hand in your exercises from this bootcamp trough GitHub. 
-
-* Create a repository called `block-tech`
-* Add a copy of the `template-repo` folder to your repository.
+* Create a repository called `js-bootcamp`
+* Add the `.js` files of the `template-repo` folder to your repository.
   * There are files for all the exercises, you will put your answers there.
   * There is also a `notes.md` where you can type notes after reading chapters of the book.
 
@@ -72,7 +70,7 @@ You are going to hand in your exercises from this bootcamp trough GitHub.
 
 
 1. **Push your changes:**  
-Hand in a link to your repository on GitHub under your username.
+Hand in your progess in your repository on GitHub under your username.
 
 1. **Create an issue:**  
 Mark this as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. 
@@ -84,7 +82,7 @@ Mark this as complete by opening an issue on our [GitHub issue tracker][issues].
 Sign up for our Slack workspace on `cmda-tech.slack.com`.
 Get invited by clicking on the invite link on our [class page on
 Moodle][moodle].
-Join the `Backend` channel in our workspace.
+Join the `js-bootcamp` channel in our workspace.
 
 Get your Slack set up properly, and then send your lecturer a direct message
 including your **real name**, **student number**, **class**, and **GitHub
@@ -95,14 +93,6 @@ We’ll use this info to link your GitHub and Slack to our administration files.
 
 If you have questions (in this order):
 
-*   Read the manual for the technology in question
-    ([Git](https://git-scm.com/docs),
-    [GitHub](https://guides.github.com),
-    [Node](https://nodejs.org/api/),
-    [npm](https://docs.npmjs.com),
-    [express](http://expressjs.com/en/4x/api.html),
-    [MongoDB](https://docs.mongodb.com))
-*   [Browse examples][examples]
 *   [Search StackOverflow][stackoverflow]
 *   [Use a search engine like DuckDuckGo][duckduckgo]
 *   [Ask questions on Slack][slack]
