@@ -1,24 +1,25 @@
 # Lesson 1
 
+Teacher: Danny de Vries
+
 ## Table of Contents
 
-*   [Slides](#slides)
-*   [Theory](#comic)
-*   [Exercises](#lab)
-*   [Hand In](#lab)
-
+* [Slides](#slides)
+* [Theory](#theory)
+* [Exercises](#exercises)
+* [Hand In](#hand-in)
 
 ## Slides
-*   [**Lecture-1**][slides-lecture]
+
+* [**Lecture-1**][slides-lecture]
 
 ## Theory
 
-Read the following chapters of [Eloquent JavaScript](https://eloquentjavascript.net/):
+From [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Introduction](https://eloquentjavascript.net/00_intro.html)
-* [Chapter 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html) 
+* [Chapter 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
 * [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-
 
 ## Exercises
 
@@ -30,6 +31,11 @@ Finish the following exercises from each corresponding chapter:
 
 ## Hand in
 
-There are no assignments due next week (or any future week). Hand in your progess in your repository on GitHub under your username. 
+Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+
+* [Chapter 3: Functions](https://eloquentjavascript.net/03_functions.html)
+* [Chapter 4: Datastructures](https://eloquentjavascript.net/04_data.html)
+
+Hand in your progess (chapter summaries and exercises) in your forked repository on GitHub under your username.
 
 [slides-lecture]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
