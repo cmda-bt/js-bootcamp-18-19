@@ -10,7 +10,7 @@ Teacher: Danny de Vries
 
 ## Theory
 
-These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+From [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 10: Modules](https://eloquentjavascript.net/10_modules.html)
 * [Chapter 11: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)

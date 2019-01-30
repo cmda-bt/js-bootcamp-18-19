@@ -10,7 +10,7 @@ Teacher: Joost Faber
 
 ## Theory
 
-These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+From [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 3: Functions](https://eloquentjavascript.net/03_functions.html)
 * [Chapter 4: Datastructures](https://eloquentjavascript.net/04_data.html)

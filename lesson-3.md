@@ -10,7 +10,7 @@ Teacher: Danny de Vries
 
 ## Theory
 
-These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+From [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 * [Chapter 6: The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)

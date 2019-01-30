@@ -10,7 +10,7 @@ Teacher: Joost Faber
 
 ## Theory
 
-These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
+From [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 8: Bugs and Errors](https://eloquentjavascript.net/08_error.html)
 
