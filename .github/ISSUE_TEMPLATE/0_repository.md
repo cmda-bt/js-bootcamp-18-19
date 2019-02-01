@@ -1,8 +1,8 @@
 ---
-name: Repository link
-about: Hand in a link to your repository.
+name: 🔗 Repository link
+about: Hand in a link to your repository with the exercises and summaries.
 title: Repository
-labels: 'week-1, bt-1,'
+labels: 'week-0, bt-1, week-0-repository'
 ---
 
 # My Introduction
@@ -28,4 +28,4 @@ labels: 'week-1, bt-1,'
 `Add a link to your github page`
 
 ## GitHub repository
-`Add a link to your github repository`
+`Add a link to your bootcamp repository`
