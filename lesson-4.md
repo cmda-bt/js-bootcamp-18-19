@@ -1,22 +1,45 @@
 # Lesson 4
 
-Teacher: Danny de Vries
+![][cover]
+
+> If it doesn’t work, it’s modern JavaScript!
+>
+>
+> — [**@horse_js**][tweet]
+
+#### Synopsis
+
+*   **Bootcamp**
+*   **Time**: 3:00h
+*   **Due**: before lesson 5
 
 ## Table of Contents
 
+* [Slides](#slides)
 * [Theory](#theory)
-* [Exercises](#exercises)
+* [Homework](#homework)
 * [Hand In](#hand-in)
+
+## Slides
+
+* [**Lecture-2**][slides-lecture]
 
 ## Theory
 
 * Recap Chapters 1 - 6 from [Eloquent JavaScript](https://eloquentjavascript.net/)
 * Live demo's
 
-## Hand in
+## Homework
 
+### Read
 Read this chapter from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 8: Bugs and Errors](https://eloquentjavascript.net/08_error.html)
 
-Hand in chapter summaries and exercises in your forked repository on GitHub under your username.
+## Hand in
+
+Hand in chapter summaries and exercises in your repository on GitHub under your username.
+
+[slides-lecture]: #
+[tweet]: https://twitter.com/horse_js/status/1066471639683162114
+[cover]: https://eloquentjavascript.net/img/chapter_picture_1.jpg

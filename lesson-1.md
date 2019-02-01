@@ -1,12 +1,23 @@
 # Lesson 1
 
-Teacher: Danny de Vries
+![][cover]
+
+> By all means use JS
+>
+>
+> — [**@horse_js**][tweet]
+
+#### Synopsis
+
+*   **Bootcamp**
+*   **Time**: 3:00h
+*   **Due**: before lesson 2
 
 ## Table of Contents
 
 * [Slides](#slides)
 * [Theory](#theory)
-* [Exercises](#exercises)
+* [Homework](#homework)
 * [Hand In](#hand-in)
 
 ## Slides
@@ -21,7 +32,9 @@ From [Eloquent JavaScript](https://eloquentjavascript.net/):
 * [Chapter 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
 * [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
 
-## Exercises
+## Homework
+
+### Exercises
 
 Finish the following exercises from each corresponding chapter:
 
@@ -29,13 +42,18 @@ Finish the following exercises from each corresponding chapter:
 * [FizzBuzz](https://eloquentjavascript.net/02_program_structure.html#i_rebKE3gdjV)
 * [Chessboard](https://eloquentjavascript.net/02_program_structure.html#i_swb9JBtSQQ)
 
-## Hand in
+### Read
 
 Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 * [Chapter 3: Functions](https://eloquentjavascript.net/03_functions.html)
 * [Chapter 4: Datastructures](https://eloquentjavascript.net/04_data.html)
 
-Hand in your progess (chapter summaries and exercises) in your forked repository on GitHub under your username.
+
+## Hand in
+
+Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
 
 [slides-lecture]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
+[tweet]: https://twitter.com/horse_js/status/1083807000394371072
+[cover]: https://eloquentjavascript.net/img/chapter_picture_00.jpg
