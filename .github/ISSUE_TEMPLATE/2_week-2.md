@@ -1,6 +1,6 @@
 ---
 name: Week 2 - Exercises
-about: Exercises from the first week of the bootcamp.
+about: Exercises from the second week of the bootcamp.
 title: Exercises-w2
 labels: 'week-2, bt-1, week-2-exercises'
 ---
