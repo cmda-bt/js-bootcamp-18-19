@@ -40,6 +40,6 @@ Read this chapter from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 Hand in chapter summaries and exercises in your repository on GitHub under your username.
 
-[slides-lecture]: #
+[slides-lecture]: https://docs.google.com/presentation/d/1GvyKOS3pmP8ys0y1H8OKMD0goR8vtjgESXioEo08alA/edit?usp=sharing
 [tweet]: https://twitter.com/horse_js/status/1066471639683162114
 [cover]: https://eloquentjavascript.net/img/chapter_picture_1.jpg

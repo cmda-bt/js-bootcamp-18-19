@@ -54,6 +54,6 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
 
-[slides-lecture]: https://docs.google.com/presentation/d/1QKkcyzQzQFmcaDXrZkER4_B458EtxV-DEYDE3V1gAY4/edit?usp=sharing
+[slides-lecture]: https://docs.google.com/presentation/d/1y8g6z_yshJPO4y6uIhFXL19J6ACjeU_oub1BIDsQZPw/edit?usp=sharing
 [tweet]: https://twitter.com/horse_js/status/1083807000394371072
 [cover]: https://eloquentjavascript.net/img/chapter_picture_00.jpg
