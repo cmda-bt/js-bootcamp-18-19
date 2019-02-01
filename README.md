@@ -28,7 +28,7 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2019 between
 
 ## Description
 
-We kick Blok Tech [**@CMDA**][cmda] off with a JavaScript bootcamp before we start with Back-end, Front-end 2 and Project Tech. This bootcamp will refresh and build further on the knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. A strong foundation in JavaScript as an language will help you get up to speed with the other courses. This bootcamp is a combined **two week** effort of **Front-end 2** and **Back-end**. **Project Tech** will run alongside the bootcamp. After the two week bootcamp both courses will start each with their own curriculum. 
+We kick Blok Tech [**@CMDA**][cmda] off with a JavaScript bootcamp before we start with Back-end, Front-end 2 and Project Tech. This bootcamp will refresh and build further on the knowledge acquired in *Internetstandaarden*, *Inleiding Programmeren*, and *Blok Web*. A strong foundation in JavaScript as an language will help you get up to speed with the other courses. This bootcamp is a combined **two week** effort of **Front-end 2** and **Back-end**. **Project Tech** will run alongside the bootcamp. After the two week bootcamp both courses will start each with their own curriculum.
 
 ## Communication
 
@@ -71,19 +71,9 @@ In practice you’ll learn to:
 * <a name="subgoal-7"></a>
     Bugs and Errors ([**lesson 5**][l5a])
 * <a name="subgoal-8"></a>
-    Modules ([**lesson 3**][l3a])
+    Modules ([**lesson 6**][l6a])
 * <a name="subgoal-9"></a>
-    Asynchronous Programming ([**lesson 4**][l4a])
-* <a name="subgoal-10"></a>
-    JavaScript and the Browser ([**lesson 4**][l4a])
-* <a name="subgoal-11"></a>
-    The Document Object Model ([**lesson 5**][l5a])
-* <a name="subgoal-11"></a>
-    Handling Events ([**lesson 5**][l5a])
-* <a name="subgoal-11"></a>
-    HTTP and Forms ([**lesson 6**][l6a])
-* <a name="subgoal-11"></a>
-    Node.js ([**lesson 6**][l6a])
+    Asynchronous Programming ([**lesson 6**][l6a])
 
 The below table breaks down the general time needed per week.
 
@@ -95,7 +85,7 @@ The below table breaks down the general time needed per week.
 | 3    |  9:20h | [assignments][l3a]                                     |
 | 4    |  9:20h | [lecture 2][l2], [assignments][l4a]                    |
 | 5    |  9:20h | [assignments][l5a]                                     |
-| 6    |  9:20h | [assignments][l6a]                            
+| 6    |  9:20h | [assignments][l6a]
 
 <br>
 <details>

@@ -11,7 +11,7 @@
 ## Prerequisites
 
 ### Text Editor
-If you don’t have one yet, install a text editor. [Atom](https://atom.io), [Sublime](https://www.sublimetext.com) and [VSCode](https://code.visualstudio.com/) are good choices. 
+If you don’t have one yet, install a text editor. [Atom](https://atom.io), [Sublime](https://www.sublimetext.com) and [VSCode](https://code.visualstudio.com/) are good choices.
 
 > Be ware that lecturers may not be able to help you with problems in some editors.
 
@@ -30,22 +30,22 @@ or job later.
 
 ### CLI
 
-*Windows:*  
+*Windows:*
 If you’re on Windows, you should upgrade to Windows 10 (64 bit) and install the Windows Subsystem for Linux using [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 (takes about 15 minutes). Follow it until you see “Installation successful”. Now, open CMD (hit **Start**, type **cmd**, and press **Enter**), and type **bash** (and press **Enter**) to start Bash.
 
 > Be ware that lecturers may not be able to help you with problems on Windows.
 
-*MacOS:*  
+*MacOS:*
 Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder.
 
 ### Git
 
-*Windows:*  
+*Windows:*
 If you installed the [Windows Subsystem for Linux](#subshell) just now, install
 Git by running `apt-get install git` in Bash.
 
-*MacOS:*  
+*MacOS:*
 Install Git from their website, by [downloading the latest release](https://git-scm.com).
 
 Connect Git and GitHub together like so:
@@ -59,21 +59,30 @@ Use the same email for Git as you used to sign up for GitHub. Open source is abo
 
 ## Setting up your repository
 
-We would like you to have one 'repo' for the *JavaScript bootcamp*. This makes it easier for us to find your files and grade your assignments. You are going to hand in your exercises from this bootcamp trough GitHub. 
+We would like you to have one 'repo' for the *JavaScript bootcamp*. This makes it easier for us to find your files and grade your assignments. You are going to hand in your exercises from this bootcamp trough GitHub.
 
 * Create a repository called `js-bootcamp`
 * Add the `.js` files of the `template-repo` folder to your repository.
   * There are files for all the exercises, you will put your answers there.
   * There is also a `notes.md` where you can type notes after reading chapters of the book.
 
+Start reading
+* [Introduction](https://eloquentjavascript.net/00_intro.html)
+* [Chapter 1: Values, Types, and Operators](https://eloquentjavascript.net/01_values.html)
+* [Chapter 2: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
+
+from [Eloquent JavaScript](https://eloquentjavascript.net/) by [Marijn Haverbeke](https://marijnhaverbeke.nl/).
+
+> The theory of the bootcamp is part of the exam for front-end 2. Don't forget to make notes! It's handy to start writing your own summaries in your repository from the start.
+
 ## Hand In
 
 
-1. **Push your changes:**  
+1. **Push your changes:**
 Hand in your progess in your repository on GitHub under your username.
 
-1. **Create an issue:**  
-Mark this as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information. 
+1. **Create an issue:**
+Mark this as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information.
 
 ## Communication
 
