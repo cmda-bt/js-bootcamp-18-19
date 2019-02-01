@@ -52,8 +52,9 @@ Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
 ## Hand in
 
-Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
+Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username. Mark the `🔗 Repository link` assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information.
 
 [slides-lecture]: https://docs.google.com/presentation/d/1y8g6z_yshJPO4y6uIhFXL19J6ACjeU_oub1BIDsQZPw/edit?usp=sharing
 [tweet]: https://twitter.com/horse_js/status/1083807000394371072
 [cover]: https://eloquentjavascript.net/img/chapter_picture_00.jpg
+[issues]: https://github.com/cmda-bt/js-bootcamp-18-19/issues/new/choose

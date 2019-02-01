@@ -37,7 +37,8 @@ Finish the following exercises from each corresponding chapter:
 
 ## Hand in
 
-Hand in chapter summaries and exercises in your forked repository on GitHub under your username.
+  Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username. Mark the `Week 2 - Exercises` assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template with the correct information.
 
 [tweet]: https://twitter.com/horse_js/status/962715924670418944
 [cover]: https://eloquentjavascript.net/img/chapter_picture_10.jpg
+[issues]: https://github.com/cmda-bt/js-bootcamp-18-19/issues/new/choose
