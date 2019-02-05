@@ -34,7 +34,7 @@ Finish the following exercises from each corresponding chapter:
 
 * [Minimum](https://eloquentjavascript.net/03_functions.html#i_XTmO7z7MPq)
 * [Bean counting](https://eloquentjavascript.net/03_functions.html#i_3rsiDgC2do)
-* [The sum of a range](https://eloquentjavascript.net/03_functions.html#i_XTmO7z7MPq)
+* [The sum of a range](https://eloquentjavascript.net/04_data.html#i_8ZspxiCEC/)
 
 ### Read
 Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
