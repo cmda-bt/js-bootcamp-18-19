@@ -15,9 +15,14 @@
 
 ## Table of Contents
 
+* [Slides](#slides)
 * [Theory](#theory)
 * [Homework](#homework)
 * [Hand In](#hand-in)
+
+## Slides
+
+* [**Lecture-3**][slides-lecture]
 
 ## Theory
 
@@ -42,3 +47,4 @@ Hand in chapter summaries and exercises in your repository on GitHub under your 
 [tweet]: https://twitter.com/horse_js/status/1071617103793393666
 [cover]: https://eloquentjavascript.net/img/chapter_picture_6.jpg
 [issues]: https://github.com/cmda-bt/js-bootcamp-18-19/issues/new/choose
+[slides-lecture]: https://docs.google.com/presentation/d/1a54XE_GhzyOFTfwcziH2sbQliYI14DK2zdBqlpu_et8/edit?usp=sharing
