@@ -22,7 +22,7 @@
 
 ## Slides
 
-* [**Lecture-2**][slides-lecture]
+* [**Lecture-4**][slides-lecture]
 
 ## Theory
 
