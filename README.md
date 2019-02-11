@@ -114,7 +114,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 ## License
 
 Unless stated otherwise, code is [MIT][] © [Danny de Vries][author1] & [Joost Faber][joostgit],
-docs and images are [CC-BY-4.0][].
+docs and images are [CC-BY-3.0][].
 
 [banner]: https://cmda-bt.github.io/js-bootcamp-18-19/assets/banner.svg
 [cmda]: https://github.com/cmda
