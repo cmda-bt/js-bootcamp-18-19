@@ -19,6 +19,10 @@
 * [Homework](#homework)
 * [Hand In](#hand-in)
 
+## Slides
+
+* [**Lecture-6**][slides-lecture]
+
 
 ## Theory
 
@@ -42,3 +46,4 @@ Finish the following exercises from each corresponding chapter:
 [tweet]: https://twitter.com/horse_js/status/962715924670418944
 [cover]: https://eloquentjavascript.net/img/chapter_picture_10.jpg
 [issues]: https://github.com/cmda-bt/js-bootcamp-18-19/issues/new/choose
+[slides-lecture]: https://docs.google.com/presentation/d/1EAKInxIuRN_a2XDaHKs0hjlXCH_ohdaag-fKweook8c/edit?usp=sharing
