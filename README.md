@@ -1,5 +1,8 @@
 # ![JavaScript bootcamp - Course 2018-2019][banner]
 
+> **Note**: JavaScript bootcamp has concluded for 2018/2019.
+> Next year will be a new, changed, curriculum. 
+
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
